@@ -1,0 +1,4 @@
+---
+connection:
+  database: mytestdb
+  system: postgres
